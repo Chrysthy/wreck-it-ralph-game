@@ -8,12 +8,15 @@ const state = {
     },
 
     values: {
-        timerId: setInterval(randomSquare, 1000),
-        countDownTimerId: setInterval(countDown, 1000),
         gameVelocity: 1000,
         hitPosition: 0,
         result: 0,
         currentTime: 60,
+    },
+
+    actions: {
+        timerId: setInterval(randomSquare, 1000),
+        countDownTimerId: setInterval(countDown, 1000),
     }
 
 };
