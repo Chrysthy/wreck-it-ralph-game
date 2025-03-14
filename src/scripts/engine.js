@@ -12,9 +12,19 @@ const state = {
         gameVelocity: 1000,
         hitPosition: 0,
         result: 0,
+        currentTime: 60,
     }
 
 };
+
+function countDown() {
+    
+    state.values.currentTime--;
+    
+    if (state.values.currentTime === 0) { }
+
+    alert('GAME OVER! Your final score is ' + state.values.result);
+}
 
 
 function randomSquare() {
