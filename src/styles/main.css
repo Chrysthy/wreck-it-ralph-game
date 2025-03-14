@@ -34,7 +34,14 @@
 
     background-color: #008000;
 
+    /* background-image: url("https://thumbs.dreamstime.com/z/%C3%ADcone-quadrado-do-quadro-de-janela-estilo-dos-desenhos-animados-99659924.jpg");
+    background-size: cover; */
+
     cursor: pointer;
+}
+
+.square:hover {
+    background-color: #00ff00;
 }
 
 .enemy {
