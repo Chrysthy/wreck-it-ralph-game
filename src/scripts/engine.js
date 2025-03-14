@@ -11,3 +11,8 @@ const state = {
 
 };
 
+function initialize() {
+    
+}
+
+initialize();
