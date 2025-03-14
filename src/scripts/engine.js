@@ -47,6 +47,7 @@ function addListenerHitBox() {
 function initialize() {
 
     moveEnemy();
+    addListenerHitBox();
 }
 
 
