@@ -11,8 +11,18 @@ const state = {
 
 };
 
-function initialize() {
-    
+
+function addListenerHitBox() {
+
+    state.view.squares.forEach((square) => {
+
+    })
 }
+
+
+function initialize() {
+
+}
+
 
 initialize();
