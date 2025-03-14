@@ -7,7 +7,10 @@ const state = {
         score: document.querySelector('#score'),
     },
 
-    value: {}
+    values: {
+        timerId: null,
+        gameVelocity: 1000,
+    }
 
 };
 
@@ -26,6 +29,12 @@ function randomSquare() {
 
 }
 
+function moveEnemy() {
+
+    state.values.timerId = setInterval(randomSquare, state.values.gameVelocity);
+}
+
+
 
 function addListenerHitBox() {
 
@@ -37,7 +46,7 @@ function addListenerHitBox() {
 
 function initialize() {
 
-    randomSquare();
+    moveEnemy();
 }
 
 
