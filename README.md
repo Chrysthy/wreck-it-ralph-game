@@ -1,5 +1,10 @@
-<h2 align="center"> 🚧 Work in progress 🚧 </h2>
-<p align="center">This project is still under development. </p>
+<h1 align="center"> Wreck-it Rralph game 🧱 </h1> 
 
-<br>
-<br>
+<p align="center">  
+  <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#support">Support</a>  
+</p>
