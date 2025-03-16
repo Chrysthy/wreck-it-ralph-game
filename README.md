@@ -17,6 +17,8 @@
 
 ## 📸 Screenshots
 
+<p align="center">  
 <img src="/.github/game.gif" alt="video do projeto" width="800px">
+</p>
 
 <br>
